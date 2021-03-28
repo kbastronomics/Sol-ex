@@ -1,0 +1,9 @@
+Courtesy based on original "Equatorial Mount for DSLR" from SimonRob.
+Original files available at:
+https://www.thingiverse.com/thing:4365068/comments
+Electronic scheme "soudures.jpg", arduino original code, controller enclosure and small gear Z10 are parts of this project.
+-------------------------------------------------------------------------------
+Engrenage V3.stl based on manette_reseau.stl from Christian Buil for Sol'Ex.; modified by FERIER Stéphane.
+-------------------------------------------------------------------------------
+The rest of parts are owned by FERIER Stéphane.
+
