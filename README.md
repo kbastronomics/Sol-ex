@@ -1,3 +1,5 @@
 # Sol-EX Spectrograph
-Contains the STL files to print Sol'EX
-- solex_stl.zip: all the stil file in one zip file for 3D printing
+This repository is associated to the Sol'EX website from Christian Buil
+http://www.astrosurf.com/solex/
+
+It will contain the site's reference of the STL files to print Sol'EX and additional contrubtions from the community.
