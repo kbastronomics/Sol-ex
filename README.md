@@ -6,5 +6,6 @@ Contains the main STL files to build Sol'EX and additions to enhanced the standa
 - solex_stl.zip: all the stil file in one zip file for 3D printing: reference from Sol'EX site
 - all stl files one by one
 - motorisation by Stephane Ferrier: grating orientation
+- cache lumière parasite by David Bregou
 
 
