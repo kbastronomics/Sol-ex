@@ -7,5 +7,6 @@ Contains the main STL files to build Sol'EX and additions to enhanced the standa
 - all stl files one by one
 - motorisation by Stephane Ferrier: grating orientation
 - cache lumière parasite by David Bregou
+- vernier reseau by Xavier Dupont
 
 
